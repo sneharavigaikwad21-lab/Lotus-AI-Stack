@@ -1,0 +1,7 @@
+# Build artifacts
+build/
+*.elf
+*.o
+
+# Log files
+*.log
